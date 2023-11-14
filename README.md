@@ -1,6 +1,6 @@
 # Enemy AI for FPS Game
 
-![image](https://github.com/erikjusufi/Enemy-AI-Unity/assets/80853756/c6996316-ee78-4044-9cd8-3f914c3f9150)
+![Animation](https://github.com/erikjusufi/Enemy-AI/assets/80853756/f0f29325-109f-4f80-a566-cf97c8afbf54)
 
 
 This repository contains the implementation of an Enemy AI system for an FPS game developed in Unity. 
