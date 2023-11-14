@@ -17,4 +17,5 @@ Leap Attack: The enemy performs a leaping attack if the player is within a certa
 Light/Heavy Attack: The enemy performs 2 types of attack with different animations.  
 
 Various SFX and VFX for enemies.
+![image](https://github.com/erikjusufi/Enemy-AI-Unity/assets/80853756/c79a38f9-78ff-4d58-9a90-63da760b923f)
 
